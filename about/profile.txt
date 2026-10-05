@@ -1,5 +1,5 @@
 Имя: Степан
 Фамилия: Смирнов
 Студент ИТМО
-Изменено на компьютере
+Изменено на feature-contacts
 Email: smirnoffStepan123456789@gmail.com
